@@ -1,5 +1,1 @@
-- 👋 Salut, je suis @koneiii !
-- 👀 Je suis intérrésé par le Java bukkit principalemeent mais j'ai les base pour le HTML, CSS, JS, C, C++ et AppScript de Google
-- 🌱 En ce moment j'apprends le Java bukkit
-- 💞️ Mon projet actuel est @EvolyaNet
-- 📫 Mon discord: koneiii
+
